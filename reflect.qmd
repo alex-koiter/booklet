@@ -6,10 +6,17 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 ::: {.callout-note appearance="minimal" icon="false"}
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
+*Best Working conditions*
+- Feeling good e.g., not tired
+- Nice work space
+- Working on a project that I like
+- Working with others who are actually helping/doing their part
 
-
-
- 
+*Poor Working conditions*
+- Responding to email as they come in
+- Working on too many things at once
+- Feeling unmotivated
+- Not sure how to move forward
 
  
 
@@ -67,6 +74,14 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? Do you take screenshots? If you analyze data or images, what do you use?*
 
+R and R studio for data anlsysis
+Zotero for managing references
+Dropbox for syncing across home and work computers, also for working collaborativly on projects (share data, documents etc)
+OSF working with a grad student to manage and archive data
+MS office and open office for writing documents
+Converting many of my university assignments to quarto documents
+Google sheets and docs for working with others
+One drive for work/department related files
 
   
 
@@ -104,7 +119,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *How do you organize them? Do you download and save in folders? How do you find them?*
 
-  
+- docs, spreadsheets, csv, images, propietary file types (e.g., data exported from intruments), .shp
+- organized by project and/or collaborator and/or site location - trouble with overlap
+- download and save, backed up via drop box 
 
  
 
@@ -141,7 +158,13 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? How do software and files connect together? You can draw this*
 
+Work flow is often chaotic at best, try to set up in a logical mannor at first but don't know what to do with unknowns or unexpected change to a project. I am reluctant to make changes later on
 
+Every project/task is a different work flow
+
+Projects are split into into subprojects. Each subproject will have its folder, where data, scripts and results are put. Usully have a separate writing folder
+
+No two days seem to be the same unexpected things always seem to come up and I am not great at organizing and priortizing.
   
 
  
@@ -220,7 +243,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? Do you take screenshots? How do you find things weekly or come back to something after a month, a year?*
 
-  
+  White board and sticky notes and my google calendar are my main ways or tracking things and note forgetting about them
 
  
 
@@ -258,7 +281,10 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
-  
+Drop box
+email
+OSF
+google drive
 
  
 
@@ -296,7 +322,8 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *There are good things about your workflow. What feels good to you?*
 
-
+For some aspects of my job it's a well organized and functional workflow
+When it works as anticipated and can handle unknowns and the unexpected, and the curosity side tracks
   
 
  
@@ -335,7 +362,8 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
-
+In many cases i don't have one or its not really working for me.
+Have a hard time findingout how I did it last time
   
 
  
@@ -381,7 +409,8 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *What might be a focus for the next few weeks?*
 
-  
+How to organize files in a meaningful and functional way  
+How do I handle so many very different tasks in a unifying way and keep track of it all
 
  
 

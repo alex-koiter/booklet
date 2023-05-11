@@ -20,7 +20,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
  
 
- 
+I can get easily distracted
+I have a hard time priortizing certain work items, especially those that have no deadline and/or do not involve others
+
 
  
 
@@ -82,6 +84,9 @@ MS office and open office for writing documents
 Converting many of my university assignments to quarto documents
 Google sheets and docs for working with others
 One drive for work/department related files
+ImageJ - image analysis
+Google drive - sharing documents
+Quarto for helping students with R related questions
 
   
 
@@ -122,6 +127,7 @@ One drive for work/department related files
 - docs, spreadsheets, csv, images, propietary file types (e.g., data exported from intruments), .shp
 - organized by project and/or collaborator and/or site location - trouble with overlap
 - download and save, backed up via drop box 
+- find them by memory or searching within folders
 
  
 
@@ -158,7 +164,7 @@ One drive for work/department related files
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? How do software and files connect together? You can draw this*
 
-Work flow is often chaotic at best, try to set up in a logical mannor at first but don't know what to do with unknowns or unexpected change to a project. I am reluctant to make changes later on
+Work flow is often chaotic at best, try to set up in a logical mannor at first but don't know what to do with unknowns or unexpected changes to a project. I am reluctant to make changes later on
 
 Every project/task is a different work flow
 
@@ -243,7 +249,9 @@ No two days seem to be the same unexpected things always seem to come up and I a
 
 *Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? Do you take screenshots? How do you find things weekly or come back to something after a month, a year?*
 
-  White board and sticky notes and my google calendar are my main ways or tracking things and note forgetting about them
+  White board and sticky notes and my google calendar are my main ways or tracking things and not forgetting about them
+  Will leave comments in R scripts to note where I left off and what needs to be done next
+  Often search my email archive for inforamtion 
 
  
 
@@ -285,6 +293,13 @@ Drop box
 email
 OSF
 google drive
+github
+
+Admin
+Students
+Faculty
+Academic/government research partners
+Industry groups
 
  
 
@@ -322,9 +337,10 @@ google drive
 
 *There are good things about your workflow. What feels good to you?*
 
-For some aspects of my job it's a well organized and functional workflow
+For some aspects of my job it's a well organized and functional workflow - makes me feel competent
 When it works as anticipated and can handle unknowns and the unexpected, and the curosity side tracks
-  
+Empty inbox feels awesome!
+Everything is backed up
 
  
 
@@ -364,6 +380,9 @@ When it works as anticipated and can handle unknowns and the unexpected, and the
 
 In many cases i don't have one or its not really working for me.
 Have a hard time findingout how I did it last time
+Responding to prospective grad students when I am not activly requiting. I type out the same message in my reply - get several a week 
+keeping track of emails that need action or follow up
+
   
 
  
@@ -411,6 +430,7 @@ Have a hard time findingout how I did it last time
 
 How to organize files in a meaningful and functional way  
 How do I handle so many very different tasks in a unifying way and keep track of it all
+How can I better manage my inbox
 
  
 

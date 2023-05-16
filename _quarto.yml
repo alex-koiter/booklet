@@ -39,12 +39,12 @@ book:
   chapters:
     - href: "index.qmd"
       text: Welcome
-   # - workflows.qmd  
+    - workflows.qmd  
     - how-to-use.qmd
     - href: reflect.qmd
       text: Reflect
-    # - href: "reimagine.qmd"
-    #   text: Remagine
+    - href: "reimagine.qmd"
+      text: Remagine
     # - href: "goals.qmd"
     #   text: Goal-setting
     # - closing.qmd
